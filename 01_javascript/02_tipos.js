@@ -1,6 +1,9 @@
 var tipo;
 console.log("O tipo é %s", tipo);
 
+tipo = typeof(true);
+console.log("O tipo é %s", tipo);
+
 tipo = typeof(-0);
 console.log("O tipo é %s", tipo);
 

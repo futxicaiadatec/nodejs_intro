@@ -48,7 +48,9 @@ var {
         }
     } = users
 
-console.log(`senha1=${segredo1} senha2 = ${segredo2}`)
+var {senha} = users.cil
+
+console.log("%s %s %s", segredo1, segredo2, senha)
 
 // exercício
 // como acessar a senha do terceiro elemento do vetor asList do objeto users ?
