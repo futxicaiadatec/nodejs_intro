@@ -1,0 +1,33 @@
+var ita = {}
+
+ita.nome    = "itacir"
+ita.id      = "it.cir"
+ita.senha   = "123456"
+
+console.log(ita)
+console.log(JSON.stringify(ita))
+console.log(JSON.stringify(ita,null,4))
+console.dir(ita)
+
+var ful = {
+    "nome":     "fulano",
+    "id":       "fullyear",
+    "senha":    "123456"
+}
+
+
+// exercício
+var users = {
+    "ita":      ita,
+    "ful":      ful
+}
+users.cil       = {}
+users.cil.nome  = "ciclano"
+users.cil.id    = "tornado"
+users.cil.senha = "123456"
+
+var Array = [].push(ita).push(ful).push(users.cil)
+
+users.asList = Array
+
+// o que vai aparecer no console.log(JSON.stringify(users,null,4))
