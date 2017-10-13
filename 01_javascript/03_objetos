@@ -1,3 +1,4 @@
+// CONSTRUÇÃO
 var ita = {}
 
 ita.nome    = "itacir"
@@ -26,8 +27,28 @@ users.cil.nome  = "ciclano"
 users.cil.id    = "tornado"
 users.cil.senha = "123456"
 
-var Array = [].push(ita).push(ful).push(users.cil)
+var Array = []
+Array.push(ita)
+Array.push(ful)
+Array.push(users.cil)
 
 users.asList = Array
 
-// o que vai aparecer no console.log(JSON.stringify(users,null,4))
+/* o que vai aparecer no
+console.log(JSON.stringify(users,null,4))
+?
+*/
+
+// DESTRUIÇÃO
+var {senha:segredo1} = ita
+
+var {
+    ful:{
+        senha: segredo2
+        }
+    } = users
+
+console.log(`senha1=${segredo1} senha2 = ${segredo2}`)
+
+// exercício
+// como acessar a senha do terceiro elemento do vetor asList do objeto users ?
