@@ -10,6 +10,7 @@ console.log(JSON.stringify(ita))
 console.log(JSON.stringify(ita,null,4))
 console.dir(ita)
 
+
 var ful = {
     "nome":     "fulano",
     "id":       "fullyear",
