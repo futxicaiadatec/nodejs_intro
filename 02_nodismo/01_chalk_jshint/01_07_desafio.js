@@ -1,9 +1,19 @@
-function servidor(req){
-    var res
-    /*
-    ** Seu código aqui
-    */
-    return res
+var chalk = require('chalk')
+
+function servidor({index,total}={index:0,total:0}){
+    return function servidor(req){
+        total++
+        var res
+        if(req === 'index.html'){
+            index++
+            res = '<!DOCTYPE html><html lang=\"pt-br\"><head><meta charset=\"utf-8\"></head><body><h1>EM CONSTRUÇÃO</h1></body></html>'
+            console.log(chalk.blue(`index requisitado! ${index}/${total}`));
+        }else{
+            res = '404 não encontrado'
+            console.log(chalk.red(`404 não encontrado ${index}/${total}`));
+        }
+        return res
+    }
 }
 
 var requisicoes = [
@@ -54,6 +64,8 @@ var requisicoes = [
     "/api/userid",
     "style.css"
 ]
+
+var servidor = servidor({index:12,total:300})
 
 var respostas = requisicoes.map(servidor)
 
