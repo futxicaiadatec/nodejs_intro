@@ -1,0 +1,19 @@
+{
+  "name": "keyvaluedao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "db=mem tap test/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^10.7.2"
+  },
+  "dependencies": {
+    "leveldown": "^2.0.0",
+    "levelup": "^2.0.0",
+    "memdown": "^1.4.1"
+  }
+}

@@ -1,0 +1,707 @@
+[
+  {
+    "cidade": "Cuiabá",
+    "censo2010": "551 350",
+    "estimativa2017": "590 118"
+  },
+  {
+    "cidade": "Várzea Grande",
+    "censo2010": "252 709",
+    "estimativa2017": "274 013"
+  },
+  {
+    "cidade": "Rondonópolis",
+    "censo2010": "195 550",
+    "estimativa2017": "222 316"
+  },
+  {
+    "cidade": "Sinop",
+    "censo2010": "113 082",
+    "estimativa2017": "135 874"
+  },
+  {
+    "cidade": "Tangará da Serra",
+    "censo2010": "84 076",
+    "estimativa2017": "98 828"
+  },
+  {
+    "cidade": "Cáceres",
+    "censo2010": "87 912",
+    "estimativa2017": "91 271"
+  },
+  {
+    "cidade": "Sorriso",
+    "censo2010": "66 506",
+    "estimativa2017": "85 223"
+  },
+  {
+    "cidade": "Lucas do Rio Verde",
+    "censo2010": "45 545",
+    "estimativa2017": "61 515"
+  },
+  {
+    "cidade": "Primavera do Leste",
+    "censo2010": "52 114",
+    "estimativa2017": "59 293"
+  },
+  {
+    "cidade": "Barra do Garças",
+    "censo2010": "56 423",
+    "estimativa2017": "58 974"
+  },
+  {
+    "cidade": "Alta Floresta",
+    "censo2010": "49 233",
+    "estimativa2017": "50 189"
+  },
+  {
+    "cidade": "Pontes e Lacerda",
+    "censo2010": "41 386",
+    "estimativa2017": "43 832"
+  },
+  {
+    "cidade": "Nova Mutum",
+    "censo2010": "31 633",
+    "estimativa2017": "42 607"
+  },
+  {
+    "cidade": "Campo Verde",
+    "censo2010": "31 612",
+    "estimativa2017": "39 933"
+  },
+  {
+    "cidade": "Juína",
+    "censo2010": "39 260",
+    "estimativa2017": "39 779"
+  },
+  {
+    "cidade": "Colniza",
+    "censo2010": "26 390",
+    "estimativa2017": "36 161"
+  },
+  {
+    "cidade": "Guarantã do Norte",
+    "censo2010": "32 150",
+    "estimativa2017": "34 500"
+  },
+  {
+    "cidade": "Juara",
+    "censo2010": "32 769",
+    "estimativa2017": "33 851"
+  },
+  {
+    "cidade": "Barra do Bugres",
+    "censo2010": "31 058",
+    "estimativa2017": "33 644"
+  },
+  {
+    "cidade": "Peixoto de Azevedo",
+    "censo2010": "30 762",
+    "estimativa2017": "33 630"
+  },
+  {
+    "cidade": "Campo Novo do Parecis",
+    "censo2010": "27 574",
+    "estimativa2017": "33 551"
+  },
+  {
+    "cidade": "Colíder",
+    "censo2010": "30 864",
+    "estimativa2017": "32 298"
+  },
+  {
+    "cidade": "Poconé",
+    "censo2010": "31 778",
+    "estimativa2017": "32 241"
+  },
+  {
+    "cidade": "Confresa",
+    "censo2010": "25 127",
+    "estimativa2017": "29 471"
+  },
+  {
+    "cidade": "Mirassol d'Oeste",
+    "censo2010": "25 331",
+    "estimativa2017": "26 768"
+  },
+  {
+    "cidade": "Jaciara",
+    "censo2010": "25 666",
+    "estimativa2017": "26 633"
+  },
+  {
+    "cidade": "Vila Rica",
+    "censo2010": "21 403",
+    "estimativa2017": "24 835"
+  },
+  {
+    "cidade": "Água Boa",
+    "censo2010": "20 844",
+    "estimativa2017": "24 501"
+  },
+  {
+    "cidade": "Sapezal",
+    "censo2010": "18 080",
+    "estimativa2017": "24 305"
+  },
+  {
+    "cidade": "Paranatinga",
+    "censo2010": "19 280",
+    "estimativa2017": "21 612"
+  },
+  {
+    "cidade": "Aripuanã",
+    "censo2010": "18 582",
+    "estimativa2017": "21 357"
+  },
+  {
+    "cidade": "Diamantino",
+    "censo2010": "20 420",
+    "estimativa2017": "21 294"
+  },
+  {
+    "cidade": "Nova Xavantina",
+    "censo2010": "19 475",
+    "estimativa2017": "20 639"
+  },
+  {
+    "cidade": "Canarana",
+    "censo2010": "18 701",
+    "estimativa2017": "20 707"
+  },
+  {
+    "cidade": "Comodoro",
+    "censo2010": "18 157",
+    "estimativa2017": "19 932"
+  },
+  {
+    "cidade": "São José do Rio Claro",
+    "censo2010": "17 128",
+    "estimativa2017": "19 728"
+  },
+  {
+    "cidade": "Nova Olímpia",
+    "censo2010": "17 529",
+    "estimativa2017": "19 465"
+  },
+  {
+    "cidade": "Chapada dos Guimarães",
+    "censo2010": "17 799",
+    "estimativa2017": "19 049"
+  },
+  {
+    "cidade": "Cotriguaçu",
+    "censo2010": "14 987",
+    "estimativa2017": "18 689"
+  },
+  {
+    "cidade": "Brasnorte",
+    "censo2010": "15 280",
+    "estimativa2017": "18 688"
+  },
+  {
+    "cidade": "São José dos Quatro Marcos",
+    "censo2010": "18 963",
+    "estimativa2017": "18 452"
+  },
+  {
+    "cidade": "Santo Antônio do Leverger",
+    "censo2010": "18 409",
+    "estimativa2017": "18 392"
+  },
+  {
+    "cidade": "Alto Araguaia",
+    "censo2010": "15 670",
+    "estimativa2017": "18 164"
+  },
+  {
+    "cidade": "Pedra Preta",
+    "censo2010": "15 693",
+    "estimativa2017": "16 965"
+  },
+  {
+    "cidade": "Rosário Oeste",
+    "censo2010": "17 682",
+    "estimativa2017": "16 908"
+  },
+  {
+    "cidade": "Querência",
+    "censo2010": "13 021",
+    "estimativa2017": "16 512"
+  },
+  {
+    "cidade": "Araputanga",
+    "censo2010": "15 387",
+    "estimativa2017": "16 223"
+  },
+  {
+    "cidade": "Poxoréu",
+    "censo2010": "17 602",
+    "estimativa2017": "15 985"
+  },
+  {
+    "cidade": "Matupá",
+    "censo2010": "14 172",
+    "estimativa2017": "15 870"
+  },
+  {
+    "cidade": "Vila Bela da Santíssima Trindade",
+    "censo2010": "14 491",
+    "estimativa2017": "15 534"
+  },
+  {
+    "cidade": "Campinápolis",
+    "censo2010": "14 222",
+    "estimativa2017": "15 386"
+  },
+  {
+    "cidade": "Nobres",
+    "censo2010": "15 011",
+    "estimativa2017": "14 917"
+  },
+  {
+    "cidade": "Juruena",
+    "censo2010": "11 269",
+    "estimativa2017": "14 913"
+  },
+  {
+    "cidade": "Guiratinga",
+    "censo2010": "13 867",
+    "estimativa2017": "14 615"
+  },
+  {
+    "cidade": "Nova Bandeirantes",
+    "censo2010": "11 630",
+    "estimativa2017": "14 473"
+  },
+  {
+    "cidade": "Feliz Natal",
+    "censo2010": "10 933",
+    "estimativa2017": "13 451"
+  },
+  {
+    "cidade": "Tapurah",
+    "censo2010": "10 390",
+    "estimativa2017": "12 967"
+  },
+  {
+    "cidade": "Itiquira",
+    "censo2010": "11 493",
+    "estimativa2017": "12 789"
+  },
+  {
+    "cidade": "Nossa Senhora do Livramento",
+    "censo2010": "11 592",
+    "estimativa2017": "12 484"
+  },
+  {
+    "cidade": "Nova Canaã do Norte",
+    "censo2010": "12 132",
+    "estimativa2017": "12 388"
+  },
+  {
+    "cidade": "Porto Alegre do Norte",
+    "censo2010": "10 754",
+    "estimativa2017": "11 995"
+  },
+  {
+    "cidade": "Cláudia",
+    "censo2010": "10 972",
+    "estimativa2017": "11 716"
+  },
+  {
+    "cidade": "Porto Esperidião",
+    "censo2010": "10 950",
+    "estimativa2017": "11 603"
+  },
+  {
+    "cidade": "Alto Garças",
+    "censo2010": "10 321",
+    "estimativa2017": "11 532"
+  },
+  {
+    "cidade": "Nova Ubiratã",
+    "censo2010": "9 245",
+    "estimativa2017": "11 352"
+  },
+  {
+    "cidade": "São Félix do Araguaia",
+    "censo2010": "10 531",
+    "estimativa2017": "11 290"
+  },
+  {
+    "cidade": "Juscimeira",
+    "censo2010": "11 434",
+    "estimativa2017": "10 971"
+  },
+  {
+    "cidade": "Alto Paraguai",
+    "censo2010": "9 951",
+    "estimativa2017": "10 921"
+  },
+  {
+    "cidade": "Vera",
+    "censo2010": "10 235",
+    "estimativa2017": "10 901"
+  },
+  {
+    "cidade": "Paranaíta",
+    "censo2010": "10 690",
+    "estimativa2017": "10 884"
+  },
+  {
+    "cidade": "Marcelândia",
+    "censo2010": "11 994",
+    "estimativa2017": "10 422"
+  },
+  {
+    "cidade": "Carlinda",
+    "censo2010": "10 985",
+    "estimativa2017": "10 136"
+  },
+  {
+    "cidade": "Alto Taquari",
+    "censo2010": "8 100",
+    "estimativa2017": "10 246"
+  },
+  {
+    "cidade": "Ribeirão Cascalheira",
+    "censo2010": "8 880",
+    "estimativa2017": "9 796"
+  },
+  {
+    "cidade": "Apiacás",
+    "censo2010": "8 538",
+    "estimativa2017": "9 694"
+  },
+  {
+    "cidade": "Terra Nova do Norte",
+    "censo2010": "11 302",
+    "estimativa2017": "9 606"
+  },
+  {
+    "cidade": "Arenápolis",
+    "censo2010": "10 355",
+    "estimativa2017": "9 455"
+  },
+  {
+    "cidade": "Tabaporã",
+    "censo2010": "9 917",
+    "estimativa2017": "9 309"
+  },
+  {
+    "cidade": "Denise",
+    "censo2010": "8 494",
+    "estimativa2017": "9 115"
+  },
+  {
+    "cidade": "Nova Monte Verde",
+    "censo2010": "8 088",
+    "estimativa2017": "8 822"
+  },
+  {
+    "cidade": "Jauru",
+    "censo2010": "10 461",
+    "estimativa2017": "8 776"
+  },
+  {
+    "cidade": "Novo Mundo",
+    "censo2010": "7 069",
+    "estimativa2017": "8 730"
+  },
+  {
+    "cidade": "Castanheira",
+    "censo2010": "8 231",
+    "estimativa2017": "8 454"
+  },
+  {
+    "cidade": "Nova Maringá",
+    "censo2010": "6 590",
+    "estimativa2017": "8 182"
+  },
+  {
+    "cidade": "Santa Terezinha",
+    "censo2010": "7 399",
+    "estimativa2017": "8 049"
+  },
+  {
+    "cidade": "Jangada",
+    "censo2010": "7 696",
+    "estimativa2017": "7 996"
+  },
+  {
+    "cidade": "Dom Aquino",
+    "censo2010": "8 131",
+    "estimativa2017": "7 977"
+  },
+  {
+    "cidade": "Barão de Melgaço",
+    "censo2010": "7 591",
+    "estimativa2017": "7 872"
+  },
+  {
+    "cidade": "Gaúcha do Norte",
+    "censo2010": "6 287",
+    "estimativa2017": "7 296"
+  },
+  {
+    "cidade": "Ipiranga do Norte",
+    "censo2010": "5 123",
+    "estimativa2017": "7 171"
+  },
+  {
+    "cidade": "Campos de Júlio",
+    "censo2010": "5 019",
+    "estimativa2017": "6 512"
+  },
+  {
+    "cidade": "Alto Boa Vista",
+    "censo2010": "5 249",
+    "estimativa2017": "6 466"
+  },
+  {
+    "cidade": "Itanhangá",
+    "censo2010": "5 260",
+    "estimativa2017": "6 396"
+  },
+  {
+    "cidade": "Pontal do Araguaia",
+    "censo2010": "5 427",
+    "estimativa2017": "6 387"
+  },
+  {
+    "cidade": "Nova Lacerda",
+    "censo2010": "5 469",
+    "estimativa2017": "6 338"
+  },
+  {
+    "cidade": "Bom Jesus do Araguaia",
+    "censo2010": "5 231",
+    "estimativa2017": "6 266"
+  },
+  {
+    "cidade": "Nortelândia",
+    "censo2010": "6 438",
+    "estimativa2017": "5 895"
+  },
+  {
+    "cidade": "Lambari d'Oeste",
+    "censo2010": "5 438",
+    "estimativa2017": "5 887"
+  },
+  {
+    "cidade": "Cocalinho",
+    "censo2010": "5 498",
+    "estimativa2017": "5 535"
+  },
+  {
+    "cidade": "São José do Xingu",
+    "censo2010": "5 267",
+    "estimativa2017": "5 416"
+  },
+  {
+    "cidade": "General Carneiro",
+    "censo2010": "5 018",
+    "estimativa2017": "5 333"
+  },
+  {
+    "cidade": "Porto dos Gaúchos",
+    "censo2010": "5 448",
+    "estimativa2017": "5 283"
+  },
+  {
+    "cidade": "Acorizal",
+    "censo2010": "5 516",
+    "estimativa2017": "5 269"
+  },
+  {
+    "cidade": "Novo São Joaquim",
+    "censo2010": "6 043",
+    "estimativa2017": "5 066"
+  },
+  {
+    "cidade": "Curvelândia",
+    "censo2010": "4 898",
+    "estimativa2017": "5 049"
+  },
+  {
+    "cidade": "Rio Branco",
+    "censo2010": "5 061",
+    "estimativa2017": "5 019"
+  },
+  {
+    "cidade": "Santo Antônio do Leste",
+    "censo2010": "3 757",
+    "estimativa2017": "4 875"
+  },
+  {
+    "cidade": "Canabrava do Norte",
+    "censo2010": "4 767",
+    "estimativa2017": "4 630"
+  },
+  {
+    "cidade": "São Pedro da Cipa",
+    "censo2010": "4 142",
+    "estimativa2017": "4 541"
+  },
+  {
+    "cidade": "Nova Guarita",
+    "censo2010": "4 929",
+    "estimativa2017": "4 457"
+  },
+  {
+    "cidade": "Santa Carmem",
+    "censo2010": "4 075",
+    "estimativa2017": "4 360"
+  },
+  {
+    "cidade": "São José do Povo",
+    "censo2010": "3 601",
+    "estimativa2017": "3 908"
+  },
+  {
+    "cidade": "Novo Horizonte do Norte",
+    "censo2010": "3 746",
+    "estimativa2017": "3 876"
+  },
+  {
+    "cidade": "Conquista d'Oeste",
+    "censo2010": "3 388",
+    "estimativa2017": "3 860"
+  },
+  {
+    "cidade": "Rondolândia",
+    "censo2010": "3 538",
+    "estimativa2017": "3 854"
+  },
+  {
+    "cidade": "Nova Brasilândia",
+    "censo2010": "4 593",
+    "estimativa2017": "3 827"
+  },
+  {
+    "cidade": "Itaúba",
+    "censo2010": "4 570",
+    "estimativa2017": "3 800"
+  },
+  {
+    "cidade": "Tesouro",
+    "censo2010": "3 437",
+    "estimativa2017": "3 682"
+  },
+  {
+    "cidade": "Nova Nazaré",
+    "censo2010": "3 021",
+    "estimativa2017": "3 655"
+  },
+  {
+    "cidade": "Nova Santa Helena",
+    "censo2010": "3 475",
+    "estimativa2017": "3 596"
+  },
+  {
+    "cidade": "Torixoréu",
+    "censo2010": "4 036",
+    "estimativa2017": "3 576"
+  },
+  {
+    "cidade": "União do Sul",
+    "censo2010": "3 767",
+    "estimativa2017": "3 468"
+  },
+  {
+    "cidade": "Figueirópolis d'Oeste",
+    "censo2010": "3 085",
+    "estimativa2017": "3 444"
+  },
+  {
+    "cidade": "Salto do Céu",
+    "censo2010": "3 903",
+    "estimativa2017": "3 347"
+  },
+  {
+    "cidade": "Santa Rita do Trivelato",
+    "censo2010": "2 466",
+    "estimativa2017": "3 231"
+  },
+  {
+    "cidade": "Nova Marilândia",
+    "censo2010": "2 925",
+    "estimativa2017": "3 159"
+  },
+  {
+    "cidade": "Santo Afonso",
+    "censo2010": "2 974",
+    "estimativa2017": "3 050"
+  },
+  {
+    "cidade": "Vale de São Domingos",
+    "censo2010": "3 058",
+    "estimativa2017": "3 041"
+  },
+  {
+    "cidade": "Araguaiana",
+    "censo2010": "3 221",
+    "estimativa2017": "3 036"
+  },
+  {
+    "cidade": "Porto Estrela",
+    "censo2010": "3 639",
+    "estimativa2017": "2 973"
+  },
+  {
+    "cidade": "Glória d'Oeste",
+    "censo2010": "3 125",
+    "estimativa2017": "2 964"
+  },
+  {
+    "cidade": "Indiavaí",
+    "censo2010": "2 407",
+    "estimativa2017": "2 648"
+  },
+  {
+    "cidade": "Reserva do Cabaçal",
+    "censo2010": "2 578",
+    "estimativa2017": "2 646"
+  },
+  {
+    "cidade": "Planalto da Serra",
+    "censo2010": "2 726",
+    "estimativa2017": "2 604"
+  },
+  {
+    "cidade": "Novo Santo Antônio",
+    "censo2010": "2 005",
+    "estimativa2017": "2 498"
+  },
+  {
+    "cidade": "Santa Cruz do Xingu",
+    "censo2010": "1 899",
+    "estimativa2017": "2 421"
+  },
+  {
+    "cidade": "Ribeirãozinho",
+    "censo2010": "2 199",
+    "estimativa2017": "2 320"
+  },
+  {
+    "cidade": "Luciara",
+    "censo2010": "2 229",
+    "estimativa2017": "2 043"
+  },
+  {
+    "cidade": "Serra Nova Dourada",
+    "censo2010": "1 365",
+    "estimativa2017": "1 575"
+  },
+  {
+    "cidade": "Ponte Branca",
+    "censo2010": "1 783",
+    "estimativa2017": "1 560"
+  },
+  {
+    "cidade": "Araguainha",
+    "censo2010": "1 095",
+    "estimativa2017": "931"
+  }
+]
