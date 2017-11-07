@@ -23,5 +23,4 @@ db.get('criandoChave3',function(err,buffer){
   EXERCÍCIO 2
   a) Criar um diretório de dados 'matoGrosso.db' e salvar a população de todas as cidades
   b) Ler do diretório as 20 cidades mais populosas e imprimir a soma
-
 */
