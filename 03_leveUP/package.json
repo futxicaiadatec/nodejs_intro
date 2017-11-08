@@ -12,6 +12,7 @@
     "tap": "^10.7.2"
   },
   "dependencies": {
+    "encoding-down": "^2.3.4",
     "leveldown": "^2.0.0",
     "levelup": "^2.0.0",
     "memdown": "^1.4.1"

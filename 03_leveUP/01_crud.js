@@ -13,6 +13,7 @@ db.get('criandoChave3',function(err,buffer){
     console.error(err)
   }else{
     console.log(buffer.toString())
+    db.close(console.error)
   }
 })
 

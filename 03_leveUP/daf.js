@@ -1,6 +1,7 @@
 var levelup = require('levelup')
+var encode = require('encoding-down')
 var down
-
+// encoding-down
 
 if(process.env.db === 'mem'){
   down = require('memdown')
@@ -10,5 +11,5 @@ if(process.env.db === 'mem'){
 
 
 module.exports = function daf(dir){
-  return levelup(down(dir))
+  return levelup(encode(down(dir)))
 }

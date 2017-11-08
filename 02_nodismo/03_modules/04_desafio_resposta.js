@@ -29,7 +29,7 @@ module.exports = function (conf){
       if(delta === 0){
         done(null,data)
       }else{
-        done(null,Buffer(1))
+        done(null,'')
       }
     }
     

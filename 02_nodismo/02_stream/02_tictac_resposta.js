@@ -1,18 +1,12 @@
-const clock = new require('stream').Readable()
+const stream = require('stream')
+const clock = new stream.Readable()
 let tic = true
-clock._read = function(){}
 
-const b = new Buffer(1)
+clock._read = function(){
+  setTimeout(function () {
+      clock.push( tic ? 'tic\n' : 'tac\n');
+      tic = !tic
+  }, 1000);
+}
 
-setInterval( function(){
-  clock.push(b)
-}, 1000)
-
-clock.on('data', function(){
-  if(tic){
-    process.stdout.write('tic\n')
-  }else{
-    process.stdout.write('tac\n')
-  }
-  tic = !tic
-})
+clock.pipe(process.stdout)

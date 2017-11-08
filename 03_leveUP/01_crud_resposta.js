@@ -1,5 +1,5 @@
 var daf = require('./daf')
-var db = daf('crud.db')
+var db = daf('matoGrosso.db')
 
 var cidades = [
   'Cuiabá',
@@ -24,12 +24,12 @@ var cidades = [
   'Peixoto de Azevedo'
 ]
 
-function getadd(i,soma){
+function getloop(i,soma){
   if(i<20){
     db.get(cidades[i],function(err,data){
       soma += Number(data.toString())
       i++
-      getadd(i,soma)
+      getloop(i,soma)
     })
   }else{
     db.close()
@@ -37,4 +37,4 @@ function getadd(i,soma){
   }
 }
 
-getadd(0,0)
+getloop(0,0)

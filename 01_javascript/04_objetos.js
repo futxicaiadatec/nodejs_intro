@@ -18,7 +18,7 @@ var ful = {
 }
 
 
-// exercício
+// exemplo lousa
 var users = {
     "ita":      ita,
     "ful":      ful

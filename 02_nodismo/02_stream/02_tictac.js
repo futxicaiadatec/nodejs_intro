@@ -1,5 +1,4 @@
 const stream = require('stream')
-
 const clock = new stream.Readable()
 
 clock.push('tic\n')
@@ -10,9 +9,9 @@ clock.push('tic\n')
 clock.push('tac\n')
 clock.push(null)
 
-clock.pipe(process.stdout)
+console.log(clock._read)
 
-clock.on('data', process.stdout.write)
+clock.pipe(process.stdout)
 
 /**
  * Exercício
