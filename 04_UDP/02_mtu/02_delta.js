@@ -1,9 +1,9 @@
 const dgram = require('dgram');
 const server = dgram.createSocket('udp4');
 const client = dgram.createSocket('udp4');
+let t0 = Date.now()
 
 server.on('error', function(err){
-  console.log(JSON.stringify(err));
   server.close();
 });
 
@@ -12,8 +12,16 @@ server.on('close', function(){
 });
 
 server.on('message', function(msg, rinfo){
-  console.log(JSON.stringify(rinfo,null,2));
-  server.close();
+  client.send(Buffer(rinfo.size+1), 41234, 'localhost',function(err,size){
+    if(err){
+      console.error(err)
+      client.close()
+      server.close()
+    }else{
+      console.log('size: '+size+' delta: '+(Date.now() - t0))
+      t0 = Date.now()
+    }
+  })
 });
 
 server.on('listening', function(){
@@ -23,6 +31,4 @@ server.on('listening', function(){
 server.bind(41234,'127.0.0.1');
 
 const message = Buffer(1);
-client.send(message, 41234, 'localhost', function(err){
-  client.close();
-});
+client.send(message, 41234, 'localhost');
