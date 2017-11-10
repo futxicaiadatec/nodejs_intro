@@ -1,5 +1,9 @@
 function atoa(){}
 
+function eco(v){
+  return v
+}
+
 var seno = Math.sin
 seno(0.5)
 // qual a diferença entre "var seno = Math.sin()" ?
